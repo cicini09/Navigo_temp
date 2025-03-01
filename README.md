@@ -6,7 +6,9 @@ nya sa 'pubspec.yaml' ninyo,
 I edit ni
 
 flutter:
+
   assets:
+  
     - assets/
 
     
